@@ -1,7 +1,7 @@
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
 ### Name : Meenu S
 ### Roll no : 212223230124
-### Date of experiment : 19.08.24
+### Date of experiment : 20.09.24
 
 ## Aim: 
 To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
